@@ -1,30 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ff1e344f-10f5-47e8-a559-c57974070137" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/junitgenerator-prj-settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithm_demo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Algorithm_demo/com/company/AlgoFrame$AlgoCanvas.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Algorithm_demo/com/company/AlgoFrame.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Algorithm_demo/com/company/AlgoVisHelper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Algorithm_demo/com/company/AlgoVisualizer$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Algorithm_demo/com/company/AlgoVisualizer$AlgoKeyListener.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Algorithm_demo/com/company/AlgoVisualizer$AlgoMouseListener.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Algorithm_demo/com/company/AlgoVisualizer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Algorithm_demo/com/company/Circle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/AlgoFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/AlgoVisHelper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/AlgoVisualizer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
+    <list default="true" id="ff1e344f-10f5-47e8-a559-c57974070137" name="Default Changelist" comment="Algorithms-can-see">
       <change beforePath="$PROJECT_DIR$/../Algorithms_demo/.idea/description.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Algorithms_demo/.idea/encodings.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Algorithms_demo/.idea/junitgenerator-prj-settings.xml" beforeDir="false" />
@@ -100,8 +77,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/AlgoVisualizer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="15" column="19" lean-forward="true" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+            <state relative-caret-position="420">
+              <caret line="14" column="41" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -285,7 +262,7 @@
       <workItem from="1577503351395" duration="9000" />
       <workItem from="1577503456372" duration="1076000" />
       <workItem from="1577506123784" duration="7947000" />
-      <workItem from="1577515653948" duration="1060000" />
+      <workItem from="1577515653948" duration="1332000" />
     </task>
     <task id="LOCAL-00001" summary="Algorithms-can-see">
       <created>1577502740499</created>
@@ -322,14 +299,22 @@
       <option name="project" value="LOCAL" />
       <updated>1577506326613</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Algorithms-can-see">
+      <created>1577516737683</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1577516737683</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31271000" />
+    <option name="totallyTimeSpent" value="31543000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="2097" height="1186" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20307249" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -436,8 +421,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/AlgoVisualizer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="15" column="19" lean-forward="true" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+        <state relative-caret-position="420">
+          <caret line="14" column="41" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

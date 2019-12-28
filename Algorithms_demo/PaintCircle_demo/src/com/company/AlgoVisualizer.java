@@ -12,7 +12,7 @@ public class AlgoVisualizer {//作为MVC层的控制器层
 
     public AlgoVisualizer(int sceneWidth, int sceneHeight, int N) {
         //初始化cricle
-        circles = new Circle[N];
+        circles = new Circle[N];//创建一个圆数组
         int R = 50;
         for (int i = 0; i < N; i++) {//随机化这四个参数
             int x = (int) (Math.random() * (sceneWidth - 2 * R) + R);//随机生成圆心坐标
