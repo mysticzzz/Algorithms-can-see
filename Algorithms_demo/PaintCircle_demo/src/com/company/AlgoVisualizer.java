@@ -11,6 +11,8 @@ public class AlgoVisualizer {//作为MVC层的控制器层
 
 
     public AlgoVisualizer(int sceneWidth, int sceneHeight, int N) {
+
+
         //初始化cricle
         circles = new Circle[N];//创建一个圆数组
         int R = 50;

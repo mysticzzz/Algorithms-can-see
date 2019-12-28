@@ -2,25 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ff1e344f-10f5-47e8-a559-c57974070137" name="Default Changelist" comment="Algorithms-can-see">
-      <change beforePath="$PROJECT_DIR$/../Algorithms_demo/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorithms_demo/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorithms_demo/.idea/junitgenerator-prj-settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorithms_demo/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorithms_demo/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorithms_demo/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorithms_demo/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorithms_demo/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorithms_demo/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorithms_demo/Algorithm_demo.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorithms_demo/out/production/Algorithm_demo/com/company/AlgoFrame$AlgoCanvas.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorithms_demo/out/production/Algorithm_demo/com/company/AlgoFrame.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorithms_demo/out/production/Algorithm_demo/com/company/AlgoVisHelper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorithms_demo/out/production/Algorithm_demo/com/company/Circle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorithms_demo/out/production/Algorithm_demo/com/company/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorithms_demo/src/com/company/AlgoFrame.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorithms_demo/src/com/company/AlgoVisHelper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorithms_demo/src/com/company/Circle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorithms_demo/src/com/company/Main.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -77,8 +58,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/AlgoVisualizer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="12" column="55" selection-start-line="12" selection-start-column="55" selection-end-line="12" selection-end-column="55" />
+            <state relative-caret-position="450">
+              <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -110,7 +91,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="174" />
     <option name="y" value="36" />
     <option name="width" value="1591" />
@@ -262,7 +243,7 @@
       <workItem from="1577503351395" duration="9000" />
       <workItem from="1577503456372" duration="1076000" />
       <workItem from="1577506123784" duration="7947000" />
-      <workItem from="1577515653948" duration="1618000" />
+      <workItem from="1577515653948" duration="2148000" />
     </task>
     <task id="LOCAL-00001" summary="Algorithms-can-see">
       <created>1577502740499</created>
@@ -313,16 +294,24 @@
       <option name="project" value="LOCAL" />
       <updated>1577517093576</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Algorithms-can-see">
+      <created>1577517308001</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1577517308001</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31829000" />
+    <option name="totallyTimeSpent" value="32359000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="2097" height="1186" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20307249" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20307249" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="设计师" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -340,7 +329,7 @@
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="11" visible="true" weight="0.23679246" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="11" visible="true" weight="0.23679246" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32924527" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -427,8 +416,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/AlgoVisualizer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="12" column="55" selection-start-line="12" selection-start-column="55" selection-end-line="12" selection-end-column="55" />
+        <state relative-caret-position="450">
+          <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
